@@ -24,7 +24,7 @@ To run:
 ## Working 
 The map can be changed by the user. First line contains no of squares. The following lines contain 2 integers depicting the start and end of the respectives snakes and ladders. Note that snakes and ladders are fundamentally similar.
 
-The die probabilities can be changed in the snakeladder.cpp file within the function snakeladder::InitializeDices().
+The die probabilities can be changed in the [snakeladder.cpp](/snakeladder.cpp)  file within the function snakeladder::InitializeDices().
 
 All the policies are stored into the the log.txt file which can be later used to analyze and observe. 
 
