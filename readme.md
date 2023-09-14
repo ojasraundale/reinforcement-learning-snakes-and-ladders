@@ -3,11 +3,11 @@ This code was made as part of a laboratory assignment for the course Artificial 
 
 ## Build and Run
 
-To build the program, build using '"make build"'
-To clean the build, '"make clean"'
+To build the program, build using `make build`
+To clean the build, `make clean`
 
 To run:
-''./run.o <algorithm_code> <location_of_map.txt> <gamma>''
+``./run.o <algorithm_code> <location_of_map.txt> <gamma>``
 
 <algorithm_code> : 
 		1 			-> Policy from Value Iteration
@@ -17,7 +17,7 @@ To run:
 <gamma> : Any value from 0-1
 
 ## Example usage:
-''./run.o 1 map1.txt 0.4''
+``./run.o 1 map1.txt 0.4``
 [Just copy-paste into terminal]
 
 
